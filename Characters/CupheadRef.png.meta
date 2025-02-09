@@ -1,0 +1,1381 @@
+fileFormatVersion: 2
+guid: c8fa5172b70bc404cac051f6dc9017d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CupheadRef_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2022
+        width: 95
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc4125c7575524b9a887a0bcac6c3b
+      internalID: 766320117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2009
+        width: 95
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4880a5eed917d4f8eb2a68c7aeb033
+      internalID: 1319970302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2009
+        width: 97
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222e242d23e8e3348854fa38bba1bb9d
+      internalID: 1828963675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2021
+        width: 108
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d8b344ba6c374e85079ff72ed7b4e
+      internalID: -1184799235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2010
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61599054107b741a81b42524369219
+      internalID: -622329376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_6
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2010
+        width: 91
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94289099abaa5994990727178b4c9835
+      internalID: -1634469590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1996
+        width: 108
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc8d4a7f8ad61d4daa339cf05ae0aec
+      internalID: -457303444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1812
+        width: 89
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3a4a1895a4b0408914d07dd4ab895
+      internalID: -10437100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1807
+        width: 84
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8670d8b20807e4a4ea9dcae2ebcaa52a
+      internalID: 884765296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1812
+        width: 99
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a6cccc781989c41b4c123314d2194f
+      internalID: 1041426013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1800
+        width: 83
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e630ff5b2dc3eb4983a847f55b56c3e
+      internalID: -972111270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_13
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1807
+        width: 91
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f4727464292941b099babc055d576
+      internalID: 777027153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_14
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1808
+        width: 88
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36205021010d9c46a1261e638ea469f
+      internalID: -94562497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_15
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1812
+        width: 98
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f93ccbb8acde419351c9155863e1f
+      internalID: -745427629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1589
+        width: 91
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7c81194747ca459b07dc3c856e42f
+      internalID: -361320162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1592
+        width: 94
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96c2430278fa548a67a0792e5b1b34
+      internalID: 1925603495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1589
+        width: 169
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2825d68263d446a68650896018d95
+      internalID: 2108433156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_20
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1588
+        width: 161
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36638080adbcd2a458887446673672a2
+      internalID: 1900340474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_21
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1589
+        width: 164
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced483c1bb5ca54a8f46ca26a074994
+      internalID: -1835005204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_22
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1588
+        width: 163
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165df0150e546848b99f096746860ce
+      internalID: -1365500275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_24
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1589
+        width: 164
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626511f691bf53140b77449dd4a71a56
+      internalID: 732636338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1315
+        width: 160
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1b5a1ae5ab4a40ad299316d0c979c
+      internalID: -780701956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1311
+        width: 160
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e58423434ad21438159be9240eacbe
+      internalID: -2140534955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1311
+        width: 158
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965992e80557f8846baaa1c5719dcd30
+      internalID: -430660580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_28
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1312
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8bdea4b1b7d643bd890b811083488
+      internalID: -158653429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_29
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1307
+        width: 147
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4e440de93b1b947931352223baecbe
+      internalID: 905183833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_30
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1307
+        width: 145
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16daa747910319049b5d2bd5025b075f
+      internalID: -206634471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1113
+        width: 145
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530bfc613a12bc946af9b2aff327bd27
+      internalID: -1915238301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1113
+        width: 126
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5086a1bc4b0aa40b5f283e64b205a6
+      internalID: 580226519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_39
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1114
+        width: 127
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1790f45b35f2d24bb4a8360abfabb35
+      internalID: -1631952596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_40
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1109
+        width: 115
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccb84fc5aa02946ac00791b6d59751
+      internalID: -1023837976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_41
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1110
+        width: 112
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e002a943df1a4683b8b352b8508bd
+      internalID: -103677361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1109
+        width: 131
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722218fbc6d99d4792c99cc9070645a
+      internalID: -1178702666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 913
+        width: 142
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2926020cac4196141a1ee6170cebdb94
+      internalID: 2082712525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 914
+        width: 149
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383aea2bebdee94b94045fbd6bae467
+      internalID: 1097645552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_46
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 916
+        width: 160
+        height: 142
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cab306ff277864e8d46c26d8073529
+      internalID: -1027700463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 907
+        width: 122
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb9ef1b5e5e4843aa2f7231da096fc
+      internalID: 2135934954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_48
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 908
+        width: 132
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f661b8c6f226048a55b0b52889f783
+      internalID: 78294349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_49
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 910
+        width: 141
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827de875ea77de45aa36298e28910f9
+      internalID: -706979949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 715
+        width: 167
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544d18c09b54704183b02e9e608c6f8
+      internalID: -1574236189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 711
+        width: 164
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddc4a444f6bf83459d215bbfe085a7d
+      internalID: 1487260207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_52
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 713
+        width: 134
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c103a069992f41469f18be0297f1dc4
+      internalID: 1796441784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_53
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 706
+        width: 149
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b800171dd4c4e45b107469857b6cc6
+      internalID: -1733135474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_54
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 701
+        width: 148
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0420206421ff3439b6d216d55f6cf2
+      internalID: 126651528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_55
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 704
+        width: 117
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda13f1c12986bf41bae5137b34d06f1
+      internalID: -1441669232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 515
+        width: 136
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2441743f648f75d418c4c73b75421429
+      internalID: -1220685602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_58
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 511
+        width: 147
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09519bf2c029d4086c9c781b8b0864
+      internalID: -1903720941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_60
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 504
+        width: 120
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7759453c6ac99cf45bf9ac4c27b41540
+      internalID: -1809285570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 501
+        width: 132
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93a0bb4f1b2bf4cabbeb978471ac11
+      internalID: -1713211885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 294
+        width: 112
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8d78faa0adf641853673e830d06fd
+      internalID: -1722532459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_63
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 291
+        width: 112
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d6f7709f6b3314ab43bba1bbce985e
+      internalID: -824187805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_64
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 291
+        width: 114
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1047eda93f5a42d48ae9db3497736983
+      internalID: -1367175409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_65
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 290
+        width: 123
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8938f798e26904091cd4283b07536f
+      internalID: -1595971172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_66
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 293
+        width: 110
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c13f7c60c63644a497ba1d02e8745
+      internalID: -1326429439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 15
+        width: 123
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c39d1b4c2b6fe4e8094b0786e61379
+      internalID: 1303156980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_68
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 16
+        width: 113
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d928bea4fae726d4f82bbbfb487dc19a
+      internalID: 696588825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupheadRef_69
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13
+        width: 112
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821f2d93fa55474d9c9f46fba8e431c
+      internalID: -941698873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CupheadRef_0: 766320117
+      CupheadRef_1: 1319970302
+      CupheadRef_10: 1041426013
+      CupheadRef_11: -971399130
+      CupheadRef_12: -972111270
+      CupheadRef_13: 777027153
+      CupheadRef_14: -94562497
+      CupheadRef_15: -745427629
+      CupheadRef_16: -87918145
+      CupheadRef_17: -361320162
+      CupheadRef_18: 1925603495
+      CupheadRef_19: 2108433156
+      CupheadRef_2: 1828963675
+      CupheadRef_20: 1900340474
+      CupheadRef_21: -1835005204
+      CupheadRef_22: -1365500275
+      CupheadRef_23: -1811106751
+      CupheadRef_24: 732636338
+      CupheadRef_25: -780701956
+      CupheadRef_26: -2140534955
+      CupheadRef_27: -430660580
+      CupheadRef_28: -158653429
+      CupheadRef_29: 905183833
+      CupheadRef_3: -1184799235
+      CupheadRef_30: -206634471
+      CupheadRef_31: 1029236148
+      CupheadRef_32: -429006878
+      CupheadRef_33: -950359849
+      CupheadRef_34: -1253585799
+      CupheadRef_35: -1915238301
+      CupheadRef_36: -793481970
+      CupheadRef_37: 580226519
+      CupheadRef_38: 184489831
+      CupheadRef_39: -1631952596
+      CupheadRef_4: -622329376
+      CupheadRef_40: -1023837976
+      CupheadRef_41: -103677361
+      CupheadRef_42: -1178702666
+      CupheadRef_43: 985229816
+      CupheadRef_44: 2082712525
+      CupheadRef_45: 1097645552
+      CupheadRef_46: -1027700463
+      CupheadRef_47: 2135934954
+      CupheadRef_48: 78294349
+      CupheadRef_49: -706979949
+      CupheadRef_5: -2051037487
+      CupheadRef_50: -1574236189
+      CupheadRef_51: 1487260207
+      CupheadRef_52: 1796441784
+      CupheadRef_53: -1733135474
+      CupheadRef_54: 126651528
+      CupheadRef_55: -1441669232
+      CupheadRef_56: -1220685602
+      CupheadRef_57: 1988099903
+      CupheadRef_58: -1903720941
+      CupheadRef_59: 846889254
+      CupheadRef_6: -1634469590
+      CupheadRef_60: -1809285570
+      CupheadRef_61: -1713211885
+      CupheadRef_62: -1722532459
+      CupheadRef_63: -824187805
+      CupheadRef_64: -1367175409
+      CupheadRef_65: -1595971172
+      CupheadRef_66: -1326429439
+      CupheadRef_67: 1303156980
+      CupheadRef_68: 696588825
+      CupheadRef_69: -941698873
+      CupheadRef_7: -457303444
+      CupheadRef_8: -10437100
+      CupheadRef_9: 884765296
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
